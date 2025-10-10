@@ -21,3 +21,20 @@
     margin-left: 530px;
     margin-top: 50px;
 }
+.p1{
+    margin-left: 200px;
+}
+.p2{
+    margin-left: 370px;
+}
+.h2 {
+    margin-left: 520px;
+    margin-bottom: 50px;
+}
+.d3 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+    
+}
